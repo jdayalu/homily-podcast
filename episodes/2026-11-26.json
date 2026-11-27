@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-26",
+  "weekday": "Thursday, November 26, 2026",
+  "liturgical_day": "Fourth Thursday of Dedication of the Church",
+  "readings": "Heb 13:9-16; Lk 10:17-21",
+  "gospel": "Lk 10:17-21",
+  "theme": "Rejoice that your names are written in heaven",
+  "calendar_source": "https://www.syromalabarliturgy.org/assets/uploads/pdfs/beef9-2025-2026-panchangam-english-pdf-text-.pdf",
+  "assignments": [
+    {
+      "reference": "Heb 13:9-16",
+      "spoken_reference": "Heb 13:9-16",
+      "book": "HEB",
+      "theme": "We have no eternal city here",
+      "whole_verse_expansion": false
+    },
+    {
+      "reference": "Lk 10:17-21",
+      "spoken_reference": "Lk 10:17-21",
+      "book": "LUK",
+      "theme": "Rejoice that your names are written in heaven",
+      "whole_verse_expansion": false
+    }
+  ],
+  "liturgical_day_ml": "പള്ളിക്കൂദാശക്കാലം നാലാം വ്യാഴം",
+  "references_ml": [
+    "ഹെബ്രായർ ൧൩:൯–൧൬",
+    "ലൂക്കാ ൧൦:൧൭–൨൧"
+  ],
+  "audio": {
+    "English": {
+      "duration_seconds": 614.16,
+      "homily_start_seconds": 126.44,
+      "homily_duration_seconds": 487.72,
+      "homily_words": 1403,
+      "sha256": "c463a728ad7ee74463e84f5e2a0c48b67833a9d22d17808efce36adbc9088e30",
+      "reader": "Google Leda · Female · English",
+      "voice": "Leda",
+      "model": "gemini-3.8-flash-tts",
+      "scripture_translation": "World English Bible, Catholic book order",
+      "scripture_license": "Public domain",
+      "scripture_source": "https://ebible.org/eng-web-c/copyright.htm"
+    },
+    "Malayalam": {
+      "duration_seconds": 736.8,
+      "homily_start_seconds": 163.16,
+      "homily_duration_seconds": 573.64,
+      "homily_words": 763,
+      "sha256": "245d22820d09e865ac0666ef608a3526e09782e2977ab2e82661d28d1e58c3cf",
+      "reader": "Google · Kerala male · മലയാളം",
+      "voice": "ml-in-concierge-1",
+      "voice_gender": "Male",
+      "voice_style": "A native Kerala Malayalam-speaking man in his mid-fifties, with a low, slightly husky, mature voice. Deliver this as a senior Syro-Malabar priest would read Scripture and offer a homily: warm, prayerful, thoughtful, compassionate, and quietly assured. Use authentic Kerala Malayalam pronunciation, correct long and short vowels, doubled consonants, and retroflex consonants. Speak naturally to a parish congregation, with gentle emphasis and brief pauses at the ends of ideas. Clear conversational flow; no theatrical rasp, shouting, chanting, sing-song delivery, or exaggerated slowness. Do not add words, introductions, or claims about who is speaking.",
+      "model": "gemini-3.8-flash-tts",
+      "scripture_translation": "Malayalam Bible 1910, contemporary orthography",
+      "scripture_license": "© 2015 The Free Bible Foundation · CC BY-SA 4.0",
+      "scripture_source": "https://ebible.org/mal2015/copyright.htm"
+    }
+  },
+  "format_version": 2,
+  "generated_at": "2026-11-26T14:28:42.723319+00:00",
+  "schedule_timezone": "America/Los_Angeles",
+  "english_homily_words": 1403,
+  "homily_max_seconds": 600.0,
+  "homily_limit_excludes_readings": true,
+  "prompt_sha256": "3609dcf10641a07f6205d97beafb782ed5fd0d8f8203cdb390ce6ed0d30bff6f",
+  "narration_config_sha256": "6930ad8a551a939b1a58af84f1f19702cadf6222fd3e4ddb5e2341911ebbab33"
+}

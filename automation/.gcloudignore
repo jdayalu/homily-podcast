@@ -1,0 +1,8 @@
+*
+!Dockerfile
+!requirements.txt
+!publisher.py
+!homily_prompt.txt
+!narration.json
+!github_known_hosts
+!cloudbuild.yaml

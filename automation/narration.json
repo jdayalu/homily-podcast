@@ -1,0 +1,14 @@
+{
+  "Malayalam": {
+    "voice": "ml-in-concierge-1",
+    "reader": "Google · Kerala male · മലയാളം",
+    "gender": "Male",
+    "style": "A native Kerala Malayalam-speaking man in his mid-fifties, with a low, slightly husky, mature voice. Deliver this as a senior Syro-Malabar priest would read Scripture and offer a homily: warm, prayerful, thoughtful, compassionate, and quietly assured. Use authentic Kerala Malayalam pronunciation, correct long and short vowels, doubled consonants, and retroflex consonants. Speak naturally to a parish congregation, with gentle emphasis and brief pauses at the ends of ideas. Clear conversational flow; no theatrical rasp, shouting, chanting, sing-song delivery, or exaggerated slowness. Do not add words, introductions, or claims about who is speaking."
+  },
+  "English": {
+    "voice": "Leda",
+    "reader": "Google Leda · Female · English",
+    "gender": "Female",
+    "style": "A youthful adult female reader, warm, reverent, clear and expressive, with natural English pronunciation. Calm, unhurried Scripture and homily narration."
+  }
+}
