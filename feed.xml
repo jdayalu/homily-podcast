@@ -1,96 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-  <title>Daily Homily – Syro-Malabar</title>
-  <link>https://jdayalu.github.io/homily-podcast/</link>
-  <atom:link href="https://jdayalu.github.io/homily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-  <language>en</language>
-  <description>Daily Syro-Malabar homilies in English and Malayalam, following the official liturgical calendar readings.</description>
-  <itunes:author>Daily Homily</itunes:author>
-  <itunes:image href="https://jdayalu.github.io/homily-podcast/cover.jpg"/>
-  <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Christianity"/></itunes:category>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:block>Yes</itunes:block>
-  <lastBuildDate>Fri, 27 Nov 2026 13:05:48 +0000</lastBuildDate>
-  <item>
-    <title>Fri Nov 27 · English · Fourth Friday of Dedication of the Church</title>
-    <description>Fourth Friday of Dedication of the Church (Friday, November 27, 2026). Readings: Revelation 7:9-12; Mark 12:18-27. Gospel theme: They will be like the angels in heaven. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_English.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_English.mp3" length="4458341" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-27-english</guid>
-    <pubDate>Fri, 27 Nov 2026 04:01:00 -0800</pubDate>
-    <itunes:duration>0:09:17</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Fri Nov 27 · Malayalam · Fourth Friday of Dedication of the Church</title>
-    <description>പള്ളിക്കൂദാശക്കാലം നാലാം വെള്ളി. Fourth Friday of Dedication of the Church (Friday, November 27, 2026). Readings: Revelation 7:9-12; Mark 12:18-27. Gospel theme: They will be like the angels in heaven. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_Malayalam.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_Malayalam.mp3" length="4120425" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-27-malayalam</guid>
-    <pubDate>Fri, 27 Nov 2026 04:00:00 -0800</pubDate>
-    <itunes:duration>0:08:35</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Thu Nov 26 · English · Fourth Thursday of Dedication of the Church</title>
-    <description>Fourth Thursday of Dedication of the Church (Thursday, November 26, 2026). Readings: Heb 13:9-16; Lk 10:17-21. Gospel theme: Rejoice that your names are written in heaven. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_English.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_English.mp3" length="4913709" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-26-english</guid>
-    <pubDate>Thu, 26 Nov 2026 04:01:00 -0800</pubDate>
-    <itunes:duration>0:10:14</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Thu Nov 26 · Malayalam · Fourth Thursday of Dedication of the Church</title>
-    <description>പള്ളിക്കൂദാശക്കാലം നാലാം വ്യാഴം. Fourth Thursday of Dedication of the Church (Thursday, November 26, 2026). Readings: Heb 13:9-16; Lk 10:17-21. Gospel theme: Rejoice that your names are written in heaven. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_Malayalam.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_Malayalam.mp3" length="5894869" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-26-malayalam</guid>
-    <pubDate>Thu, 26 Nov 2026 04:00:00 -0800</pubDate>
-    <itunes:duration>0:12:17</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wed Nov 25 · English · Fourth Wednesday of Dedication of the Church</title>
-    <description>Fourth Wednesday of Dedication of the Church (Wednesday, November 25, 2026). Readings: Ephesians 1:3-12; Luke 1:46-55. Gospel theme: Mary&#x27;s Magnificat. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_English.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_English.mp3" length="4531495" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-25-english</guid>
-    <pubDate>Wed, 25 Nov 2026 04:01:00 -0800</pubDate>
-    <itunes:duration>0:09:26</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wed Nov 25 · Malayalam · Fourth Wednesday of Dedication of the Church</title>
-    <description>പള്ളിക്കൂദാശക്കാലം നാലാം ബുധൻ. Fourth Wednesday of Dedication of the Church (Wednesday, November 25, 2026). Readings: Ephesians 1:3-12; Luke 1:46-55. Gospel theme: Mary&#x27;s Magnificat. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_Malayalam.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_Malayalam.mp3" length="5411819" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-25-malayalam</guid>
-    <pubDate>Wed, 25 Nov 2026 04:00:00 -0800</pubDate>
-    <itunes:duration>0:11:16</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Tue Nov 24 · English · Fourth Tuesday of Dedication of the Church</title>
-    <description>Fourth Tuesday of Dedication of the Church (Tuesday, November 24, 2026). Readings: 1 Peter 2:1-10; John 10:7-16. Gospel theme: One flock and one shepherd. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_English.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_English.mp3" length="4451621" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-24-english</guid>
-    <pubDate>Tue, 24 Nov 2026 04:01:00 -0800</pubDate>
-    <itunes:duration>0:09:16</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Tue Nov 24 · Malayalam · Fourth Tuesday of Dedication of the Church</title>
-    <description>പള്ളിക്കൂദാശക്കാലം നാലാം ചൊവ്വ. Fourth Tuesday of Dedication of the Church (Tuesday, November 24, 2026). Readings: 1 Peter 2:1-10; John 10:7-16. Gospel theme: One flock and one shepherd. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_Malayalam.txt</description>
-    <enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_Malayalam.mp3" length="5587113" type="audio/mpeg"/>
-    <guid isPermaLink="false">homily-2026-11-24-malayalam</guid>
-    <pubDate>Tue, 24 Nov 2026 04:00:00 -0800</pubDate>
-    <itunes:duration>0:11:38</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-</channel>
-</rss>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:voiceagent="https://jdayalu.github.io/homily-podcast/ns/1.0"><channel><title>Daily Homily – Syro-Malabar</title><link>https://jdayalu.github.io/homily-podcast/</link><language>ml</language><description>Daily readings and original homilies in Malayalam and English.</description><itunes:author>Daily Homily</itunes:author><itunes:image href="https://jdayalu.github.io/homily-podcast/cover.jpg"/><itunes:category text="Religion &amp; Spirituality"><itunes:category text="Christianity"/></itunes:category><itunes:explicit>false</itunes:explicit><lastBuildDate>Sat, 28 Nov 2026 12:05:38 +0000</lastBuildDate><item><title>2026-11-28 · Malayalam · Fourth Saturday of Dedication of the Church</title><description>Fourth Saturday of Dedication of the Church. Readings: Rev 21:22-27; Jn 4:19-26. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-28_Malayalam.txt Readings text: https://jdayalu.github.io/homily-podcast/episodes/Readings_2026-11-28_Malayalam.txt. Scripture: Malayalam Bible 1910, contemporary orthography; © 2015 The Free Bible Foundation · CC BY-SA 4.0. Original AI-assisted homily for personal reflection; not an official Church homily.</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-28_Malayalam.mp3?v=2&amp;rev=41039b03b8f7182f6d4b9d4306a0f36404413958a3b0569fb134677ad669fc56" length="5877589" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-28-malayalam</guid><pubDate>Sat, 28 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>735</itunes:duration><itunes:explicit>false</itunes:explicit><voiceagent:homilyStart>146.72</voiceagent:homilyStart><voiceagent:reader>Google · Kerala male · മലയാളം</voiceagent:reader><podcast:chapters url="https://jdayalu.github.io/homily-podcast/episodes/Chapters_2026-11-28_Malayalam.json?rev=41039b03b8f7182f6d4b9d4306a0f36404413958a3b0569fb134677ad669fc56" type="application/json+chapters"/></item>
+<item><title>2026-11-28 · English · Fourth Saturday of Dedication of the Church</title><description>Fourth Saturday of Dedication of the Church. Readings: Rev 21:22-27; Jn 4:19-26. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-28_English.txt Readings text: https://jdayalu.github.io/homily-podcast/episodes/Readings_2026-11-28_English.txt. Scripture: World English Bible, Catholic book order; Public domain. Original AI-assisted homily for personal reflection; not an official Church homily.</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-28_English.mp3?v=2&amp;rev=a5d45702047379281f1342da028b88ca1eb496b4017fae04011ca4ce9612616e" length="4879571" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-28-english</guid><pubDate>Sat, 28 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>610</itunes:duration><itunes:explicit>false</itunes:explicit><voiceagent:homilyStart>117.56</voiceagent:homilyStart><voiceagent:reader>Google Leda · Female · English</voiceagent:reader><podcast:chapters url="https://jdayalu.github.io/homily-podcast/episodes/Chapters_2026-11-28_English.json?rev=a5d45702047379281f1342da028b88ca1eb496b4017fae04011ca4ce9612616e" type="application/json+chapters"/></item>
+<item><title>2026-11-27 · Malayalam · Fourth Friday of Dedication of the Church</title><description>Fourth Friday of Dedication of the Church. Readings: Revelation 7:9-12; Mark 12:18-27. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_Malayalam.txt</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_Malayalam.mp3?v=2&amp;rev=3166497f0e67a34def9ab1c3d641d4d095bdc136ae42fd37c65d3eeb7e4c4c0d" length="4120425" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-27-malayalam</guid><pubDate>Fri, 27 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>515</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>2026-11-27 · English · Fourth Friday of Dedication of the Church</title><description>Fourth Friday of Dedication of the Church. Readings: Revelation 7:9-12; Mark 12:18-27. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_English.txt</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-27_English.mp3?v=2&amp;rev=c56c0fba39e2e2587a3d779e121ca08da86f197045bd478169fe2ccccb9cb422" length="4458341" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-27-english</guid><pubDate>Fri, 27 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>557</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>2026-11-26 · Malayalam · Fourth Thursday of Dedication of the Church</title><description>Fourth Thursday of Dedication of the Church. Readings: Heb 13:9-16; Lk 10:17-21. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_Malayalam.txt Readings text: https://jdayalu.github.io/homily-podcast/episodes/Readings_2026-11-26_Malayalam.txt. Scripture: Malayalam Bible 1910, contemporary orthography; © 2015 The Free Bible Foundation · CC BY-SA 4.0. Original AI-assisted homily for personal reflection; not an official Church homily.</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_Malayalam.mp3?v=2&amp;rev=245d22820d09e865ac0666ef608a3526e09782e2977ab2e82661d28d1e58c3cf" length="5894869" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-26-malayalam</guid><pubDate>Thu, 26 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>737</itunes:duration><itunes:explicit>false</itunes:explicit><voiceagent:homilyStart>163.16</voiceagent:homilyStart><voiceagent:reader>Google · Kerala male · മലയാളം</voiceagent:reader><podcast:chapters url="https://jdayalu.github.io/homily-podcast/episodes/Chapters_2026-11-26_Malayalam.json?rev=245d22820d09e865ac0666ef608a3526e09782e2977ab2e82661d28d1e58c3cf" type="application/json+chapters"/></item>
+<item><title>2026-11-26 · English · Fourth Thursday of Dedication of the Church</title><description>Fourth Thursday of Dedication of the Church. Readings: Heb 13:9-16; Lk 10:17-21. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_English.txt Readings text: https://jdayalu.github.io/homily-podcast/episodes/Readings_2026-11-26_English.txt. Scripture: World English Bible, Catholic book order; Public domain. Original AI-assisted homily for personal reflection; not an official Church homily.</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-26_English.mp3?v=2&amp;rev=c463a728ad7ee74463e84f5e2a0c48b67833a9d22d17808efce36adbc9088e30" length="4913709" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-26-english</guid><pubDate>Thu, 26 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>614</itunes:duration><itunes:explicit>false</itunes:explicit><voiceagent:homilyStart>126.44</voiceagent:homilyStart><voiceagent:reader>Google Leda · Female · English</voiceagent:reader><podcast:chapters url="https://jdayalu.github.io/homily-podcast/episodes/Chapters_2026-11-26_English.json?rev=c463a728ad7ee74463e84f5e2a0c48b67833a9d22d17808efce36adbc9088e30" type="application/json+chapters"/></item>
+<item><title>2026-11-25 · Malayalam · Fourth Wednesday of Dedication of the Church</title><description>Fourth Wednesday of Dedication of the Church. Readings: Ephesians 1:3-12; Luke 1:46-55. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_Malayalam.txt</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_Malayalam.mp3?v=2&amp;rev=09f2ef88754592ce43f8a7634088cfd92e6b152111c5564d225108e34dc55e08" length="5411819" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-25-malayalam</guid><pubDate>Wed, 25 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>676</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>2026-11-25 · English · Fourth Wednesday of Dedication of the Church</title><description>Fourth Wednesday of Dedication of the Church. Readings: Ephesians 1:3-12; Luke 1:46-55. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_English.txt</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-25_English.mp3?v=2&amp;rev=8723d145225a5ea59fc2f5d89f63341459377bbc423d5fdefde524d6aa0788c8" length="4531495" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-25-english</guid><pubDate>Wed, 25 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>566</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>2026-11-24 · Malayalam · Fourth Tuesday of Dedication of the Church</title><description>Fourth Tuesday of Dedication of the Church. Readings: 1 Peter 2:1-10; John 10:7-16. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_Malayalam.txt</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_Malayalam.mp3?v=2&amp;rev=aa90e283716e10840b4936a72bde157b75542c3cc6ace4950fa0de0ca6981010" length="5587113" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-24-malayalam</guid><pubDate>Tue, 24 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>698</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>2026-11-24 · English · Fourth Tuesday of Dedication of the Church</title><description>Fourth Tuesday of Dedication of the Church. Readings: 1 Peter 2:1-10; John 10:7-16. Text: https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_English.txt</description><enclosure url="https://jdayalu.github.io/homily-podcast/episodes/Homily_2026-11-24_English.mp3?v=2&amp;rev=1666425f1b09e95797998447b11ea2027c9735767177e8496144d54e6cb50e57" length="4451621" type="audio/mpeg"/><guid isPermaLink="false">homily-2026-11-24-english</guid><pubDate>Tue, 24 Nov 2026 04:00:00 -0800</pubDate><itunes:duration>556</itunes:duration><itunes:explicit>false</itunes:explicit></item></channel></rss>
